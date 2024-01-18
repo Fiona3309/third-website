@@ -1,0 +1,36 @@
+body{
+   background-color:#8FBC8F; 
+}
+
+h1{
+    color: #004921;
+}
+
+p{
+color: #FFF8DC;
+font-size: 20px;
+font-family: arial, helvetica, sans-serif;
+
+}
+
+hr{
+    border: 2px solid #2F4F4F;
+}
+b{
+    color: lightpink; 
+
+}
+#special-bold{
+    color:#FFFAFA;
+}
+#first-par{
+    background-color: #3f2421;
+    padding: 25px;
+    border: 2px solid #FFC0CB;
+    margin: 25px;
+}
+#second-par{
+    background-color: #a16963;
+    padding: 25px;
+    border: 2px solid #FFC0CB;
+}
